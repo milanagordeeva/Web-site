@@ -1,0 +1,51 @@
+body {
+    background-color: #f1e9dc;
+    font-family: Tahoma;
+    color: #3f341b;
+}
+h1{
+    color:#2c2416;
+    font-family: Tahoma;
+}
+h2 {
+    color: #96640b;
+    font-family: Tahoma;
+}
+#ingridients {
+    margin-left: 645px;
+    margin-top: 0px;
+}
+h3 {
+    color:#96640b;
+    font-family: Tahoma;
+}
+#list1 {
+    color:#3f341b;
+    font-family: Verdana;
+    list-style-type: square;
+}
+#list2 {
+    color:#be931c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    font-size: 18px;
+}
+
+#list3 {
+    color: #3f341b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    float: left;
+    margin-right: 50px;
+    width: 580px;
+    height: auto;
+}
+#another {
+    color:#be931c;
+    font-family: sans-serif;
+}
+#history {
+    color:#be931c;
+    font-family: sans-serif;
+}
